@@ -36,17 +36,17 @@ This is the historical data that covers sales from 2010-02-05 to 2012-11-01, in 
 
 ## Analysis Tasks
 
-    1. Basic Statistics tasks
+### Basic Statistics tasks
 
-    2. Which store has maximum sales
+    1. Which store has maximum sales
 
-    3. Which store has maximum standard deviation i.e., the sales vary a lot. Also, find out the coefficient of mean to standard deviation
+    2. Which store has maximum standard deviation i.e., the sales vary a lot. Also, find out the coefficient of mean to standard deviation
 
-    4. Which store/s has good quarterly growth rate in Q3’2012
+    3. Which store/s has good quarterly growth rate in Q3’2012
 
-    5. Some holidays have a negative impact on sales. Find out holidays which have higher sales than the mean sales in non-holiday season for all stores together
+    4. Some holidays have a negative impact on sales. Find out holidays which have higher sales than the mean sales in non-holiday season for all stores together
 
-    6. Provide a monthly and semester view of sales in units and give insights
+    5. Provide a monthly and semester view of sales in units and give insights
 
 ## Statistical Model
 
