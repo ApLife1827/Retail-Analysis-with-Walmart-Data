@@ -26,30 +26,30 @@ This is the historical data that covers sales from 2010-02-05 to 2012-11-01, in 
 
 ### Holiday Events
 
-Super Bowl: 12-Feb-10, 11-Feb-11, 10-Feb-12, 8-Feb-13
+    Super Bowl: 12-Feb-10, 11-Feb-11, 10-Feb-12, 8-Feb-13
 
-Labour Day: 10-Sep-10, 9-Sep-11, 7-Sep-12, 6-Sep-13
+    Labour Day: 10-Sep-10, 9-Sep-11, 7-Sep-12, 6-Sep-13
 
-Thanksgiving: 26-Nov-10, 25-Nov-11, 23-Nov-12, 29-Nov-13
+    Thanksgiving: 26-Nov-10, 25-Nov-11, 23-Nov-12, 29-Nov-13
 
-Christmas: 31-Dec-10, 30-Dec-11, 28-Dec-12, 27-Dec-13
+    Christmas: 31-Dec-10, 30-Dec-11, 28-Dec-12, 27-Dec-13
 
 ## Analysis Tasks
 
-1. Basic Statistics tasks
+    1. Basic Statistics tasks
 
-2. Which store has maximum sales
+    2. Which store has maximum sales
 
-3. Which store has maximum standard deviation i.e., the sales vary a lot. Also, find out the coefficient of mean to standard deviation
+    3. Which store has maximum standard deviation i.e., the sales vary a lot. Also, find out the coefficient of mean to standard deviation
 
-4. Which store/s has good quarterly growth rate in Q3’2012
+    4. Which store/s has good quarterly growth rate in Q3’2012
 
-5. Some holidays have a negative impact on sales. Find out holidays which have higher sales than the mean sales in non-holiday season for all stores together
+    5. Some holidays have a negative impact on sales. Find out holidays which have higher sales than the mean sales in non-holiday season for all stores together
 
-6. Provide a monthly and semester view of sales in units and give insights
+    6. Provide a monthly and semester view of sales in units and give insights
 
 ## Statistical Model
 
 For Store 1 – Build  prediction models to forecast demand
 
-1. Linear Regression – Utilize variables like date and restructure dates as 1 for 5 Feb 2010 (starting from the earliest date in order). Hypothesize if CPI, unemployment, and fuel price have any impact on sales.
+    1. Linear Regression – Utilize variables like date and restructure dates as 1 for 5 Feb 2010 (starting from the earliest date in order). Hypothesize if CPI, unemployment, and fuel price have any impact on sales.
